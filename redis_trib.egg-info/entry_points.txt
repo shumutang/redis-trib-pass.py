@@ -1,0 +1,3 @@
+[console_scripts]
+redis-trib.py = redistrib.console:main
+

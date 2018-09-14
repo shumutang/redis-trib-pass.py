@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: redis-trib
+Version: 0.0.1
+Summary: Redis Cluster tools in Python2
+Home-page: https://github.com/Negashev/redis-trib.py
+Author: Neuron Teckid
+Author-email: lene13@gmail.com
+License: MIT
+Description: Visit https://github.com/Negashev/redis-trib.py for details please.
+Keywords: Redis Cluster
+Platform: UNKNOWN
